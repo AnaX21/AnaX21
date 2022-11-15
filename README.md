@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnaX21
-- 👀 I’m interested in all things crypto 
+- 👀 I’m work in Venture Capital and interested Cryptocurrency/ Web 3 and Bitcoin 
 - 🌱 I’m currently learning solidity 
 - 💞️ I’m looking to collaborate and build three upcoming projects 
-- 📫 How to reach me pls email me anna.smith0116@gmail.com 
+- 📫 How to reach me pls email me SAS310@proton.me
 
 <!---
 AnaX21/AnaX21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
